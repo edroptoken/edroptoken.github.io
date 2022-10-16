@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url(s/firasans/v16/va9B4kDNxMZdWfMOD5VnSKzeRhf_.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 400;
+    src: url(s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 500;
+    src: url(s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Heebo';
+    font-style: normal;
+    font-weight: 700;
+    src: url(s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf) format('truetype');
+}
